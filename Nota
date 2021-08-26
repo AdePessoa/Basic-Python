@@ -1,0 +1,6 @@
+nota = float(input('Digite a nota do aluno: '))
+resultado = nota 
+if resultado >= 7:
+    print('Parabéns! Você foi aprovado. Sua nota é {}'.format(resultado))
+else:
+    print('Você não foi aprovado. Sua nota é: {}'.format(resultado))
