@@ -1,0 +1,13 @@
+# num = None
+# par: int = 0
+# impar: int = 0
+# print("O programa será encerrado quando for digitado o número zero!")
+# while num != 0:
+#     num = int(input("Informe um número inteiro: "))
+#     if num %2 == 0:
+#         par +=1 
+#     else:
+#         impar +=1
+# print("O resultado da soma dos números pares é: {}".format(par))
+# print("O resultado da soma dos números ímpares é: {}".format(impar))
+# print("Encerrando o programa.")
